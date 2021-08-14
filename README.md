@@ -7,18 +7,17 @@ Web: [Inove](http://inove.com.ar)
 En este repositorio encontrarán los siguientes archivos:
 
 __Ejemplos de programación procedural vs OOP__\
-ejemplo_procedural.py\
-ejemplo_oop_detalle.py\
-ejemplo_oop.py
+1_ejemplos_oop
+
+__Ejemplos de unittest__\
+2_unittest
+
+__Ejemplo integrador con finanzas__\
+3_finanzas
 
 __Ejemplos de uso y herencia de clases__\
-clases.py
+anexo
 
-__Ejemplos de clases__\
-animal.py\
-person.py\
-vehicle.py\
-dispatcher.py
 
 # Consultas
 alumnos@inove.com.ar
